@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Swift**
 
-- 📫 How to reach me **vithushan@ieee.org**
+- 📫 How to reach me **vithushan.work@gmail.com**
 
 - ⚡ Fun fact **I love steve jobs**
 
