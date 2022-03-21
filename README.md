@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vithushan Logeswaran</h1>
-<h3 align="center">Full stack developer and Machine Learning Engineer from Srilanka</h3>
+<h3 align="center">Full stack developer and Blockchain Engineer from Srilanka</h3>
 
-- 🔭 I’m currently working on **ReactJs , React native and iOS development**
+- 🔭 I’m currently working on **ReactJs , React native, Blockchain Development smart contract deployment and iOS development**
 
-- 🌱 I’m currently learning **iOS development, Machine Learning**
+- 🌱 I’m currently learning **Android app develpment, React-Native and Computer Networking**
 
 - 👯 I’m looking to collaborate on **iOS development**
 
-- 💬 Ask me about **Swift**
+- 💬 Ask me about **Javascript and Java**
 
 - 📫 How to reach me **vithushan.work@gmail.com**
 
-- ⚡ Fun fact **I love steve jobs**
+- ⚡ Fun fact **I love Reading Books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
