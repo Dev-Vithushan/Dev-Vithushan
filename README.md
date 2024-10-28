@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vithushan Logeswaran</h1>
-<h3 align="center">Full stack developer and Blockchain Engineer from Srilanka</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 - 🔭 I’m currently working on **ReactJs , React native, Blockchain Development smart contract deployment and iOS development**
 
